@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-68e037a2","path":"/guide/soa/SpringCloudAlibaba.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1662079966000,"contributors":[{"name":"wangbo","email":"wangbo_0829@163.com","commits":1}]},"filePathRelative":"guide/soa/SpringCloudAlibaba.md"}');export{a as data};
