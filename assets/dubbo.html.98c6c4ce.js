@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40340051","path":"/guide/soa/dubbo.html","title":"spi\uFF0C\u5BB9\u9519","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1666005425000,"contributors":[{"name":"wangbo","email":"wangbo_0829@163.com","commits":2}]},"filePathRelative":"guide/soa/dubbo.md"}');export{e as data};

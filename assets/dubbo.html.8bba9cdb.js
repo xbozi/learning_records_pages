@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,a as e,b as o}from"./app.5927a741.js";const c={},r=e("h1",{id:"spi-\u5BB9\u9519",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#spi-\u5BB9\u9519","aria-hidden":"true"},"#"),o(" spi\uFF0C\u5BB9\u9519")],-1),n=[r];function _(d,i){return a(),s("div",null,n)}const l=t(c,[["render",_],["__file","dubbo.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as t,a as e,b as c}from"./app.5927a741.js";const r={},s=e("h1",{id:"oop\u6587\u6863",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#oop\u6587\u6863","aria-hidden":"true"},"#"),c(" oop\u6587\u6863")],-1),n=[s];function _(d,i){return a(),t("div",null,n)}const l=o(r,[["render",_],["__file","java-oop.html.vue"]]);export{l as default};

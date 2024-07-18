@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-72249c34","path":"/guide/middleware/message-queue/RabbitMQ.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1662079966000,"contributors":[{"name":"wangbo","email":"wangbo_0829@163.com","commits":1}]},"filePathRelative":"guide/middleware/message-queue/RabbitMQ.md"}');export{e as data};

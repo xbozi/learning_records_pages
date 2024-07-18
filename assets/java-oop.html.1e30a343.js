@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-247a10f2","path":"/guide/java/basic/java-oop.html","title":"oop\u6587\u6863","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1717469635000,"contributors":[{"name":"\u738B\u535A","email":"wangbo_0829@163.com","commits":1}]},"filePathRelative":"guide/java/basic/java-oop.md"}');export{a as data};
